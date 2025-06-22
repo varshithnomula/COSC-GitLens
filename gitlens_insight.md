@@ -6,7 +6,7 @@
 ```python
 def is_http_command(args: List[Union[str, bytes]], env: Environment) -> bool:
 
-
+```
 ** 📌 Author Information **
 Author: Batuhan Taskaya
 
